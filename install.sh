@@ -1,0 +1,1 @@
+pip install requests && pip install colorama && pkg install neofetch
